@@ -1,0 +1,10 @@
+101 scott IT   Pune      55000 @fis.com 
+102 Mark  CSE  Mumbai    44000 @fis.com
+103 Harry CSE  Bangalore 50000 @fis.com
+104 Tommy IT   Chennai   60000 @fis.com
+105 Smith Mech Gujrat    52000 @fis.com
+106 Rahul IT   Mohali    38000 @fis.com
+107 Jonh  CSE  Kerla     43000 @fis.com
+108 Steve IT   Bangalore 48000 @fis.com
+109 Lara  IT   Pune      44000 @fis.com
+110 Jerry CSE  Chennai   66000 @fis.com
